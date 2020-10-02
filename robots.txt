@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://nguyentrungnghia98.github.io/sitemap.xml
+Host: nguyentrungnghia98.github.io
